@@ -1,0 +1,2 @@
+ただいまGitのテスト中
+Git is Easy
