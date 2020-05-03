@@ -1,3 +1,2 @@
 ただいまGitのテスト中
 Git is Easy
-next line
