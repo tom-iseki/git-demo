@@ -11,5 +11,3 @@ ooo
 qqq
 ppp
 rrr
-sss
-sss
